@@ -1,1 +1,2 @@
-# React + Wordpress
+# React + Wordpress ([Frontity](https://frontity.org/))
+
