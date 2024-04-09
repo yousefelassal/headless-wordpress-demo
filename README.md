@@ -1,1 +1,1 @@
-# Headless Wordpress with Next.js
+# React + Wordpress
