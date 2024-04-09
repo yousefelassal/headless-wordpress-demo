@@ -1,0 +1,75 @@
+{
+  "errors": [],
+  "warnings": [],
+  "hash": "2f9f14472c1e212a152e",
+  "publicPath": "",
+  "outputPath": "C:\\Users\\yousef\\Documents\\GitHub\\headless-wordpress-demo\\app\\build\\static",
+  "assetsByChunkName": {
+    "app": "app.module.js",
+    "list": "list.module.js"
+  },
+  "assets": [
+    {
+      "name": "app.module.js",
+      "size": 6927007,
+      "chunks": [
+        "app"
+      ],
+      "chunkNames": [
+        "app"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "list.module.js",
+      "size": 50392,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "namedChunkGroups": {
+    "app": {
+      "chunks": [
+        "app"
+      ],
+      "assets": [
+        "app.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "app",
+      "files": [
+        "app.module.js"
+      ]
+    },
+    {
+      "id": "list",
+      "files": [
+        "list.module.js"
+      ]
+    }
+  ]
+}
